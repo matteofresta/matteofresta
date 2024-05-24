@@ -4,4 +4,4 @@ Hi I'm Matteo 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteofresta&layout=pie)](https://github.com/matteofresta/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matteofresta)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matteofresta)](https://github.com/matteofresta/github-readme-stats)
