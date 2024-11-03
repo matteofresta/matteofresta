@@ -23,7 +23,6 @@
   </div>
   <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteofresta&layout=pie)](https://github.com/matteofresta/github-readme-stats)
 
 ## 🧰 &nbsp;My toolbox
 
