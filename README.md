@@ -1,5 +1,9 @@
 Hi I'm Matteo 👋
 
+<div align="center">
+  <img src="https://github.com/matteofresta/matteofresta/blob/master/images/header.gif" alt="header"/>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteofresta&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteofresta&layout=pie)](https://github.com/matteofresta/github-readme-stats)
